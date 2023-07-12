@@ -1,0 +1,13 @@
+:root {
+    --ff-primary: 'Roboto', sans-serif;
+    --fs-body: 16px;
+    --fw-regular: 400;
+    --fw-bold: 700;
+
+    --color-primary-400: 4, 100%, 67%;
+
+    --color-neutral-100: 0, 0%, 100%;
+    --color-neutral-400: 231, 7%, 60%;
+    --color-neutral-800: 235, 18%, 26%;
+    --color-neutral-900: 234, 29%, 20%;
+}
